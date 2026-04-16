@@ -23,10 +23,9 @@ A simple CRUD web development project built with Node.js, MongoDB, and vanilla J
 
 ```text
 hospital-patient-management/
-|-- public/
-|   |-- app.js
-|   |-- index.html
-|   `-- styles.css
+|--app.js
+|--index.html
+|--styles.css
 |-- package.json
 |-- README.md
 `-- server.js
