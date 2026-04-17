@@ -17,7 +17,7 @@ A simple CRUD web development project built with Node.js, MongoDB, and JavaScrip
 - MongoDB
 - HTML
 - CSS
-- Vanilla JavaScript
+- JavaScript
 
 ## Project Structure
 
@@ -57,7 +57,9 @@ hospital-patient-management/
    http://127.0.0.1:3000
    ```
 
-## Optional Environment Variables
+OR
+
+To use Live Server Extension in VS code to view webpage UI without connection to database and editing capabilities.
 
 - `HOST` default: `127.0.0.1`
 - `PORT` default: `3000`
