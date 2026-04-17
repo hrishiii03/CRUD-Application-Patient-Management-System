@@ -1,6 +1,6 @@
 # Hospital Patient Management System
 
-A simple CRUD web development project built with Node.js, MongoDB, and vanilla JavaScript. This version uses Node's built-in `http` module, so it does not require Express.
+A simple CRUD web development project built with Node.js, MongoDB, and JavaScript. This version uses Node's built-in `http` module, so it does not require Express.
 
 ## Features
 
@@ -78,7 +78,4 @@ hospital-patient-management/
 - Room Number
 - Status
 
-## Notes
 
-- The application creates a unique index on `patientId`.
-- If you change the MongoDB connection string, use environment variables before running the app.
